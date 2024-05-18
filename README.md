@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Saif Al Maamari 👋
 
 # 💫 About Me:
 Currently a bachelor's student in Artificial Intelligence<br>Currently learning about various machine learning models 
